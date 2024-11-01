@@ -16,5 +16,4 @@ def main():
 
     spectrum.plot_frequency_wavelength(data, "frequency_wavelength.png")
 
-
 main()
